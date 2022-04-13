@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZYY11282021
-- 👀 I’m interested in program
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me <ZYY11282021@163.com>
 
