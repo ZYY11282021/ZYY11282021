@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZYY11282021
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Android
 - 📫 How to reach me <ZYY11282021@163.com>
 
 <!---
